@@ -1,0 +1,13 @@
+{
+    "lang": "id",
+    "transfer": {
+        "threshold": 1000000,
+        "low_fee": 2000,
+        "high_fee": 5000
+    },
+    "methods": [ "RTO (real-time)", "SKN", "RTGS"],
+    "confirmation": {
+        "en": "Yeah",
+        "id": "Ok"
+    }
+}
